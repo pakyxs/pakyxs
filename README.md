@@ -6,7 +6,7 @@
 
 ## About Me :wave:
 
-🧙‍♂️If you've made it this far, it means you're looking for someone with a passion for data science...
+🧙‍♂️ If you've made it this far, it means you're looking for someone with a passion for data science...
 Fortunately, I will introduce you to the right person:
 
 Hello! My name is Rodrigo Moreira, and I am an Industrial Engineer 👷‍♂️ graduated from the University of Santo Tomás de Aquino in the province of Tucumán, Argentina. Currently, I work as the Chief of the Department of Industrial Equipment at the Health Subsecretariat of the Province of Neuquen, Argentina.
