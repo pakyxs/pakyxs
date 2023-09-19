@@ -25,6 +25,8 @@ However, I am seeking a new challenge in the exciting field of data science, and
 - Machine Learning: Scikit-learn, Linear Regression, Logistic Regression, Decision Tree, KNN, SVM, Model Evaluation, Cross-Validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, Boosting, XG Boost,     
 Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. 🤖
 
+- Cloud: GCP ( Storage, Funtions, Scheduler, Composer, BigQuery) ☁️
+
 I consider myself an intelligent person, adaptable to change, with teamwork skills. I am excited to explore new opportunities and contribute my experience and knowledge in the field of data science.
 
 Think about it, this could be a win-win situation. I can develop professionally in the field that I'm passionate about, and you could incorporate a valuable resource into your team.
