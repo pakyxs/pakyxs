@@ -3,6 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/rcmoreg/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:rodrigomoreiraginarte@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=34603608261)](https://api.whatsapp.com/send?phone=34603608261)
 
 ## About Me :wave:
 
