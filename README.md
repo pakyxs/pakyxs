@@ -14,7 +14,7 @@ Hello! My name is Rodrigo Moreira, and I am an Industrial Engineer graduated fro
 
 However, I am seeking a new challenge in the exciting field of data science, and to achieve that, I am expanding my knowledge through digital platforms and participating in the SoyHenry bootcamp. 💯
 
-<h3 align="left">I have experience in handling various technologies, including::books:</h3>
+<h3 align="left">I have experience in handling various technologies, including: :books:</h3>
 
 - Programming languages: Python (intermediate), JavaScript (basic), and HTML5 (basic). 🐍
 
