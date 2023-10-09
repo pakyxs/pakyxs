@@ -18,7 +18,7 @@ However, I am seeking a new challenge in the exciting field of data science, and
 
 - Programming languages: Python (intermediate), JavaScript (basic), and HTML5 (basic). 🐍
 
-- Data Engineering: SQL, MySQL, ETL or ELT, Hadoop, Hive, NoSQL, neo4J, Cassandra, MongoDB, Spark, Databricks, Airflow, Docker, PostgreSQL. ⚙️
+- Data Engineering: SQL, MySQL, ETL, Hadoop, Hive, NoSQL, Databricks, Airflow, Docker, PostgreSQL. ⚙️
 
 - Data Analytics: PowerBI, Tableau, DAX, PowerQuery, Seaborn, Matplotlib. 📊
 
