@@ -16,16 +16,17 @@ However, I am seeking a new challenge in the exciting field of data science, and
 
 <h3 align="left">I have experience in handling various technologies, including: :books:</h3>
 
-- Programming languages: Python (intermediate), JavaScript (basic), and HTML5 (basic). 🐍
+- Programming Languages: Python, Javascript, and HTML5. 🐍
 
-- Data Engineering: SQL, MySQL, ETL, Hadoop, Hive, NoSQL, Databricks, Airflow, Docker, PostgreSQL. ⚙️
+- Data Engineering: SQL, MySQL, ETL or ELT, Hadoop, Hive, NoSQL, Databricks, Airflow, Docker. ⚙️
 
 - Data Analytics: PowerBI, Tableau, DAX, PowerQuery, Seaborn, Matplotlib. 📊
 
-- Machine Learning: Scikit-learn, Linear Regression, Logistic Regression, Decision Tree, KNN, SVM, Model Evaluation, Cross-Validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, Boosting, XG Boost,     
-Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. 🤖
+- Machine Learning: Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, KNN, SVM, Model Evaluation, Cross-validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, Boosting, XG Boost, Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. 🤖
 
-- Cloud: GCP ( Storage, Funtions, Scheduler, Composer, BigQuery) ☁️
+- Cloud: Google Cloud Platform (Storage, Functions, Scheduler, Composer, BigQuery) ☁️
+
+- English: B2 level.
 
 I consider myself an intelligent person, adaptable to change, with teamwork skills. I am excited to explore new opportunities and contribute my experience and knowledge in the field of data science.
 
