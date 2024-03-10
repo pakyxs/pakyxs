@@ -10,7 +10,7 @@
 🧙‍♂️ If you've made it this far, it means you're looking for someone with a passion for data science...
 Fortunately, I will introduce you to the right person:
 
-Hello! My name is Rodrigo Moreira, and I am an Industrial Engineer graduated from the University of Santo Tomás de Aquino in the province of Tucumán, Argentina. Currently, I work as the Chief of the Department of Industrial Equipment at the Health Subsecretariat of the Province of Neuquen, Argentina. 👷‍♂️
+Hello! My name is Rodrigo Moreira, and I am an Industrial Engineer graduated from the University of Santo Tomás de Aquino in the province of Tucumán, Argentina. Currently, I work as the Head of the Department of Industrial Equipment at the Health Subsecretariat of the Province of Neuquen, Argentina. 👷‍♂️
 
 However, I am seeking a new challenge in the exciting field of data science, and to achieve that, I am expanding my knowledge through digital platforms and participating in the SoyHenry bootcamp. 💯
 
@@ -22,7 +22,7 @@ However, I am seeking a new challenge in the exciting field of data science, and
 
 - Data Analytics: PowerBI, Tableau, DAX, PowerQuery, Seaborn, Matplotlib. 📊
 
-- Machine Learning: Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, KNN, SVM, Model Evaluation, Cross-validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, Boosting, XG Boost, Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. 🤖
+- Machine Learning: Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, KNN, SVM, Model Evaluation, Cross-validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, XGBoost, Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. 🤖
 
 - Cloud: Google Cloud Platform (Storage, Functions, Scheduler, Composer, BigQuery) ☁️
 
