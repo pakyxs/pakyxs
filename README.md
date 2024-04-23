@@ -26,7 +26,7 @@ However, I am seeking a new challenge in the exciting field of data science, and
 
 - Cloud: Google Cloud Platform (Storage, Functions, Scheduler, Composer, BigQuery) ☁️
 
-- English: B2 level.
+- English Proficiency B2.
 
 I consider myself an intelligent person, adaptable to change, with teamwork skills. I am excited to explore new opportunities and contribute my experience and knowledge in the field of data science.
 
