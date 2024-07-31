@@ -12,7 +12,7 @@ Fortunately, I will introduce you to the right person:
 
 Hello! My name is Rodrigo Moreira, and I am an Industrial Engineer graduated from the University of Santo Tomás de Aquino in the province of Tucumán, Argentina. Currently, I work as the Head of the Department of Industrial Equipment at the Health Subsecretariat of the Province of Neuquen, Argentina. 👷‍♂️
 
-However, I am seeking a new challenge in the exciting field of data science, and to achieve that, I am expanding my knowledge through digital platforms, finised the SoyHenry Data Science bootcamp and studying a diploma in artificial intelligence. 💯
+However, I am seeking a new challenge in the exciting field of data science, and to achieve that, I am expanding my knowledge through digital platforms. I completed the Henry Data Science bootcamp and I also hold a diploma in Artificial Intelligence from the University of Palermo. 💯
 
 <h3 align="left">I have experience in handling various technologies, including: :books:</h3>
 
